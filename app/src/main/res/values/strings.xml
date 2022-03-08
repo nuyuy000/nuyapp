@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test Lagi</string>
+    <string name = "text_login">Login</string>
+    <string name = "email_hint"></string>
+</resources>
